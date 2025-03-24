@@ -155,7 +155,7 @@ a:hover {
 /* Hero Section */
 .hero-section {
     height: 100vh;
-    background: linear-gradient(rgba(44, 62, 80, 0.7), rgba(44, 62, 80, 0.7)), url('/assets/images/hero-bg.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(44, 62, 80, 0.7), rgba(44, 62, 80, 0.7)), url('assets/images/hero-bg.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     color: white;
